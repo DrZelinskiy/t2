@@ -9,7 +9,7 @@
 	</parent>
     <groupId>module4</groupId>
     <artifactId>module4</artifactId>
-    <version>0.0.2</version>
+    <version>0.0.3</version>
 
     <scm>
         <connection>scm:git:https://github.com/DrZelinskiy/myapp.git</connection>
@@ -138,7 +138,7 @@
                             <echo>Minor: ${parsedVersion.minorVersion}</echo>
                             <echo>Incremental: ${parsedVersion.incrementalVersion}</echo>
                             <echo>Qualifier: ${parsedVersion.qualifier}</echo>
-                            <echo>Qualifier: ${parsedVersion.nextIncrementalVersion}</echo>
+                            <echo>NextIncremental: ${parsedVersion.nextIncrementalVersion}</echo>
                             <echo>BuildNumber: ${parsedVersion.buildNumber}</echo>
                         </tasks>
                     </configuration>
