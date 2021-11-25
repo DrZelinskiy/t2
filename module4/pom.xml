@@ -9,7 +9,7 @@
 	</parent>
     <groupId>module4</groupId>
     <artifactId>module4</artifactId>
-    <version>0.0.3</version>
+    <version>0.0.2</version>
 
     <scm>
         <connection>scm:git:https://github.com/DrZelinskiy/myapp.git</connection>
@@ -29,7 +29,7 @@
     <dependency>
       <groupId>junit</groupId>
       <artifactId>junit</artifactId>
-      <version>4.12-beta-1</version>
+      <version>4.12-beta-2</version>
       <scope>test</scope>
     </dependency>
   </dependencies>

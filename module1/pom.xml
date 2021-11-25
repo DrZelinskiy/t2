@@ -9,10 +9,10 @@
 	</parent>
     <groupId>module1</groupId>
     <artifactId>module1</artifactId>
-    <version>0.6-SNAPSHOT</version>
+    <version>0.8-SNAPSHOT</version>
 
     <scm>
-        <connection>scm:git:https://github.com/DrZelinskiy/myapp.git</connection>
+        <connection>scm:git:https://github.com/DrZelinskiy/t2.git</connection>
     </scm>
   
     <name>module1</name>
